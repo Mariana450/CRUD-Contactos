@@ -13,9 +13,9 @@ Este proyecto es una agenda de contactos web desarrollada en PHP aplicando el pa
 ## Instalación y configuración
 
 ### 1. Clonar o copiar el repositorio
+[https://github.com/Mariana450/CRUD-Contactos](https://github.com/Mariana450/CRUD-Contactos.git)
 
 Coloca la carpeta del proyecto en el directorio `htdocs` de XAMPP:
-https://github.com/Mariana450/CRUD-Contactos
 
 C:\xampp\htdocs\agendaversion2
 
