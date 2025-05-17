@@ -28,7 +28,25 @@ Los scripts de la base de datos, se encuentran en el respositorio indicado anter
 ## Captura de pantalla inicial
 
 <p>
-    <img src="capturas/Inicio.png" alt="Captura de pantalla inicial" width="600"/>
+    <img src="capturas/Iniciosesion.jpg" alt="Captura de pantalla inicial" width="600"/>
+</p>
+
+## Pantalla de administrador
+
+<p>
+    <img src="capturas/admin.jpg" alt="Captura de pantalla inicial" width="600"/>
+</p>
+
+## eliminar
+
+<p>
+    <img src="capturas/eliminar.jpg" alt="Captura de pantalla inicial" width="600"/>
+</p>
+
+## modificar
+
+<p>
+    <img src="capturas/modifica.jpg" alt="Captura de pantalla inicial" width="600"/>
 </p>
 
 
